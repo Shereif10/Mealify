@@ -1,0 +1,67 @@
+/* .night{
+    position: relative;
+    z-index: 8888;
+
+}
+.night a i{
+    z-index: 8888;
+}
+
+.darkmode{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 10;
+}
+
+
+body:has(.darkmode:checked) .nav{
+    background-color: #000000;
+}
+
+body:has(.darkmode:checked) .nav-container h1 a{
+    color: #ffffff;
+}
+body:has(.darkmode:checked) .nav-container h1 a span{
+    color: #c17e1f;
+}
+
+body:has(.darkmode:checked) .nav-container h1 a span {
+    color: #c17e1f;
+}
+
+body:has(.darkmode:checked) body:has(#home:target) .home-link {
+    color: #;
+}
+
+body:has(#home:target) .nav-container li:has(.home-link) {
+    border-bottom: 3px solid #ce1212;
+}
+
+body:has(#chefs:target) .chefs-link {
+    color: #000000;
+}
+
+body:has(#chefs:target) .nav-container li:has(.chefs-link) {
+    border-bottom: 3px solid #ce1212;
+}
+
+body:has(#gallery:target) .gallery-link {
+    color: #000000;
+}
+
+body:has(#gallery:target) .nav-container li:has(.gallery-link) {
+    border-bottom: 3px solid #ce1212;
+}
+
+body:has(#contact:target) .contact-link {
+    color: #000000;
+}
+
+body:has(#contact:target) .nav-container li:has(.contact-link) {
+    border-bottom: 3px solid #ce1212;
+} */
